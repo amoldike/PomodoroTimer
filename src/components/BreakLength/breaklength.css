@@ -1,0 +1,6 @@
+.lenght-container {
+  display: grid;
+  grid-template-columns: 50px 110px 50px;
+  justify-items: center;
+  align-items: center;
+}
